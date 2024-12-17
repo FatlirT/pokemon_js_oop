@@ -1,0 +1,18 @@
+{
+    "name": "pokemon-battler",
+    "version": "1.0.0",
+    "main": "pokemon.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@inquirer/prompts": "^5.3.6",
+        "jest": "^29.7.0"
+    },
+    "devDependencies": {
+        "@types/jest": "^29.5.11"
+    }
+}
